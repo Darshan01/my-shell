@@ -1,6 +1,6 @@
 AUTHORS: Darshan Lakshminarayanan
 
----------------------------------------------USAGE---------------------------------------------
+#Usage
 if mysh executable is not in directory type:
     make
 
